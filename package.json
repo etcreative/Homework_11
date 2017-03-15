@@ -1,0 +1,22 @@
+{
+  "name": "(homework_11)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "(flashcardgenerator.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etcreative/Homework_11.git"
+  },
+  "author": "Eric Tucker, M.S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etcreative/Homework_11/issues"
+  },
+  "homepage": "https://github.com/etcreative/Homework_11#readme",
+  "dependencies": {
+    "file-system": "^2.2.2"
+  }
+}
